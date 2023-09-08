@@ -987,6 +987,7 @@ textarea.input-field {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    text-align: center;
     gap: 20px;
   }
 
